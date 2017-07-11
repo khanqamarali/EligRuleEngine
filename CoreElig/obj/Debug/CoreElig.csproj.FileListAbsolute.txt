@@ -1,0 +1,5 @@
+C:\Qamar\SampleElig\CoreElig\bin\Debug\CoreElig.dll
+C:\Qamar\SampleElig\CoreElig\bin\Debug\CoreElig.pdb
+C:\Qamar\SampleElig\CoreElig\obj\Debug\CoreElig.csprojResolveAssemblyReference.cache
+C:\Qamar\SampleElig\CoreElig\obj\Debug\CoreElig.dll
+C:\Qamar\SampleElig\CoreElig\obj\Debug\CoreElig.pdb

@@ -1,0 +1,8 @@
+C:\Qamar\SampleElig\SampleElig\bin\Debug\SampleElig.exe.config
+C:\Qamar\SampleElig\SampleElig\obj\Debug\SampleElig.csprojResolveAssemblyReference.cache
+C:\Qamar\SampleElig\SampleElig\bin\Debug\SampleElig.exe
+C:\Qamar\SampleElig\SampleElig\bin\Debug\SampleElig.pdb
+C:\Qamar\SampleElig\SampleElig\obj\Debug\SampleElig.exe
+C:\Qamar\SampleElig\SampleElig\obj\Debug\SampleElig.pdb
+C:\Qamar\SampleElig\SampleElig\bin\Debug\CoreElig.dll
+C:\Qamar\SampleElig\SampleElig\bin\Debug\CoreElig.pdb
