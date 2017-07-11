@@ -15,3 +15,6 @@ C:/Qamar/SampleElig/SampleElig/bin/Debug/CoreElig.pdb
 /Users/qamarali/RuleEnginSample/EligRuleEngine/SampleElig/obj/Debug/SampleElig.csproj.CoreCompileInputs.cache
 /Users/qamarali/RuleEnginSample/EligRuleEngine/SampleElig/obj/Debug/SampleElig.exe
 /Users/qamarali/RuleEnginSample/EligRuleEngine/SampleElig/obj/Debug/SampleElig.pdb
+C:\Qamar\SampleElig\SampleElig\bin\Debug\SampleElig.exe.config
+C:\Qamar\SampleElig\SampleElig\obj\Debug\SampleElig.exe
+C:\Qamar\SampleElig\SampleElig\obj\Debug\SampleElig.pdb

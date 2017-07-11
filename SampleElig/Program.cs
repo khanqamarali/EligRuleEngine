@@ -16,6 +16,7 @@ namespace SampleElig
                  var someUser = new LoanEligbility { Product = "CONFIRMING" };
                 Func<LoanEligbility, bool> compiledRule = MakeExpressionTree.CompileRule<LoanEligbility>(rule);                    
                  var isMatch = compiledRule(someUser);
+                    // Checking compatilblity 
 
                  Console.WriteLine(isMatch);
 
