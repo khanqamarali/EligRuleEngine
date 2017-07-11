@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{18859B67-E9C2-4F18-B9B8-593E9D9C868C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleElig/Program.cs">
+    <Files>
+      <File FileName="CoreElig/Rule.cs" Line="1" Column="1" />
+      <File FileName="CoreElig/MakeExpressionTree.cs" Line="1" Column="1" />
+      <File FileName="SampleElig/Program.cs" Line="19" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/qamarali/RuleEnginSample/EligRuleEngine/SampleElig/Program.cs" relfile="SampleElig/Program.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleElig PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

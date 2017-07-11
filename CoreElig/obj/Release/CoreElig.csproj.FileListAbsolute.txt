@@ -1,0 +1,5 @@
+/Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/bin/Release/CoreElig.dll
+/Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/bin/Release/CoreElig.pdb
+/Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/obj/Release/CoreElig.csproj.CoreCompileInputs.cache
+/Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/obj/Release/CoreElig.dll
+/Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/obj/Release/CoreElig.pdb

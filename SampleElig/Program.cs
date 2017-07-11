@@ -17,6 +17,8 @@ namespace SampleElig
                 Func<LoanEligbility, bool> compiledRule = MakeExpressionTree.CompileRule<LoanEligbility>(rule);                    
                  var isMatch = compiledRule(someUser);
 
+                 Console.WriteLine(isMatch);
+
         }
     }
 }
