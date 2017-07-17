@@ -9,6 +9,7 @@ namespace CoreElig
 {
     public class Rule
     {
+        public string Id { get; set; }
         public string MemberName { get; set; }
         public string Operator { get; set; }
         public string TargetValue { get; set; }
@@ -17,6 +18,7 @@ namespace CoreElig
 
     public class LoanEligbility
     {
+        public string Id { get; set; }
         public string Product { get; set; }
         public string State { get; set; }
         public string LoanPurpose { get; set; }

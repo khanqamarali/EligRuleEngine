@@ -29,11 +29,7 @@ namespace CoreElig
             var left = MemberExpression.Property(param, r.MemberName);
             var tProp = typeof(T).GetProperty(r.MemberName).PropertyType;
             ExpressionType tBinary;
-            // is the operator a known .NET operator?
-            if (ExpressionType.TryParse(ExpressionType.And.ToString(), out tBinary))
-            {
-                Debug.WriteLine("Yes");
-            }
+                      
             if (ExpressionType.TryParse(r.Operator, out tBinary))
             {
                 var right = Expression.Constant(Convert.ChangeType(r.TargetValue, tProp));
