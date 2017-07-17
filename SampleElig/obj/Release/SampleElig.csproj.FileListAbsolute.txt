@@ -7,3 +7,11 @@
 /Users/qamarali/RuleEnginSample/EligRuleEngine/SampleElig/obj/Release/SampleElig.csproj.CoreCompileInputs.cache
 /Users/qamarali/RuleEnginSample/EligRuleEngine/SampleElig/obj/Release/SampleElig.exe
 /Users/qamarali/RuleEnginSample/EligRuleEngine/SampleElig/obj/Release/SampleElig.pdb
+C:\Qamar\SampleElig\SampleElig\bin\Release\SampleElig.exe.config
+C:\Qamar\SampleElig\SampleElig\obj\Release\SampleElig.exe
+C:\Qamar\SampleElig\SampleElig\obj\Release\SampleElig.pdb
+C:\Qamar\SampleElig\SampleElig\bin\Release\SampleElig.exe
+C:\Qamar\SampleElig\SampleElig\bin\Release\SampleElig.pdb
+C:\Qamar\SampleElig\SampleElig\bin\Release\CoreElig.dll
+C:\Qamar\SampleElig\SampleElig\bin\Release\CoreElig.pdb
+C:\Qamar\SampleElig\SampleElig\obj\Release\SampleElig.csprojResolveAssemblyReference.cache

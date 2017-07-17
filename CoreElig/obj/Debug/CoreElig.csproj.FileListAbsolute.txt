@@ -1,11 +1,11 @@
-C:/Qamar/SampleElig/CoreElig/bin/Debug/CoreElig.dll
-C:/Qamar/SampleElig/CoreElig/bin/Debug/CoreElig.pdb
-C:/Qamar/SampleElig/CoreElig/obj/Debug/CoreElig.csprojResolveAssemblyReference.cache
-C:/Qamar/SampleElig/CoreElig/obj/Debug/CoreElig.dll
-C:/Qamar/SampleElig/CoreElig/obj/Debug/CoreElig.pdb
 /Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/bin/Debug/CoreElig.dll
 /Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/bin/Debug/CoreElig.pdb
 /Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/obj/Debug/CoreElig.csprojResolveAssemblyReference.cache
 /Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/obj/Debug/CoreElig.csproj.CoreCompileInputs.cache
 /Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/obj/Debug/CoreElig.dll
 /Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/obj/Debug/CoreElig.pdb
+C:\Qamar\SampleElig\CoreElig\bin\Debug\CoreElig.dll
+C:\Qamar\SampleElig\CoreElig\bin\Debug\CoreElig.pdb
+C:\Qamar\SampleElig\CoreElig\obj\Debug\CoreElig.dll
+C:\Qamar\SampleElig\CoreElig\obj\Debug\CoreElig.pdb
+C:\Qamar\SampleElig\CoreElig\obj\Debug\CoreElig.csprojResolveAssemblyReference.cache

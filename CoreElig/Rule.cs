@@ -17,6 +17,11 @@ namespace CoreElig
 
     public class LoanEligbility
     {
-        public string Product { get; set; }       
+        public string Product { get; set; }
+        public string State { get; set; }
+        public string LoanPurpose { get; set; }
+        public string Amort { get; set; }
+        public double FICO { get; set; }
+
     }
 }

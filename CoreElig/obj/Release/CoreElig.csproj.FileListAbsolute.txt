@@ -3,3 +3,7 @@
 /Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/obj/Release/CoreElig.csproj.CoreCompileInputs.cache
 /Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/obj/Release/CoreElig.dll
 /Users/qamarali/RuleEnginSample/EligRuleEngine/CoreElig/obj/Release/CoreElig.pdb
+C:\Qamar\SampleElig\CoreElig\bin\Release\CoreElig.dll
+C:\Qamar\SampleElig\CoreElig\bin\Release\CoreElig.pdb
+C:\Qamar\SampleElig\CoreElig\obj\Release\CoreElig.dll
+C:\Qamar\SampleElig\CoreElig\obj\Release\CoreElig.pdb
